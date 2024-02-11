@@ -1,3 +1,3 @@
 # VDay2024
 
-A *will you be my valentine* proosal to Mo.
+A *will you be my valentine* proposal to Mo.
