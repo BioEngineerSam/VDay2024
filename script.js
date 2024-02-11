@@ -12,6 +12,7 @@ $(document).ready(function(){
     
     $('.close').click(function(){
       $('.container').removeClass('open');
+      $('.small-button').show();
     });
 
     // Function to display the popup
